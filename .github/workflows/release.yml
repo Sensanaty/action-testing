@@ -23,5 +23,5 @@ jobs:
       - name: Bump version
         uses: haya14busa/action-bumpr@v1.9.0
         with:
-          default-bump-level: 'patch'
+          default_bump_level: 'patch'
           
